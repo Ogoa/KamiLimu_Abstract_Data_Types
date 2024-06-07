@@ -11,6 +11,6 @@ You can only insert or remove a data item from one end of the stack. Think of it
 ### Methods to implement
 - isEmpty() - Checks if the stack is empty
 - isFull() - Checks if the stack is fully occupied, according to the size you defined
-- peek() - Check the item currently at the top of the stack
+- peek() - Print the item currently at the top of the stack
 - pop() - Remove and return the item at the top of the stack
 - push() - Add an item to the stack
